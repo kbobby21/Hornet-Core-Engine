@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS tags (
+	value TEXT PRIMARY KEY,
+	counter BIGINT DEFAULT 1
+);

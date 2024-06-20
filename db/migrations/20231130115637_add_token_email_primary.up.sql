@@ -1,0 +1,2 @@
+ALTER TABLE tokens
+ADD PRIMARY KEY (email);
